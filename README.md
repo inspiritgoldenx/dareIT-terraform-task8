@@ -1,5 +1,5 @@
 # task 8 :see_no_evil:
-## *cleanup & apply all the knowledge to deploy a simple website by using one of solutions*:
+## cleanup & apply all the knowledge to deploy a simple website by using one of solutions:
 
 ### static website in GCS
 ### single VM
